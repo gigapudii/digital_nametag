@@ -14,8 +14,10 @@ Since there is no board that fits the screen and the components, I had to create
 As for the software, I used a [library](https://github.com/platisd/nokia-5110-lcd-library) for this particular Nokia screen. 
 Additionally, when screen is not updated, the microcontroller is in deep sleep to preserve the battery.
 
+To create the images that were displayed on the screen I used Adobe Photoshop and the LCD Assistant.
+
 ## Components
-* Nametag PCB
+* [Nametag PCB](https://oshpark.com/shared_projects/H9KOpiVm)
 * Attiny85
 * Coin battery CR2032
 * Coin battery holder
