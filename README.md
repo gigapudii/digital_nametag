@@ -13,7 +13,7 @@ As for the microcontroller, I chose the Attiny85 because it's a) low powered b) 
 
 Since there is no board that fits the screen and the components, I had to create my own. To design the board I used Eagle CAD. The basic thought during this process was to make it "invisible", i.e. have it hidden behind the screen, and for it to have a small cut on the top on which I could hang it. Apart from this, the most important part was to make the correct connections between the board and the screen which was fairly straight forward. 
 
-![digital-nametag-back](https://i.imgur.com/sH9JIlN.jpg)
+![digital-nametag-back](https://i.imgur.com/TknoJRL.jpg)
 ![digital-nametag-size](https://i.imgur.com/yzrTcCb.jpg)
 
 As for the software, I used a [library](https://github.com/platisd/nokia-5110-lcd-library) for this particular Nokia screen. 
