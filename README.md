@@ -2,7 +2,7 @@
 A digital nametag based on the Nokia 3310 screen, making you interesting during fairs.
 
 ## WHY
-Whenever I visit fairs, I often feel that I am not noticed very much. and when I do find someone to speak to, I sometimes find it hard to start a conversation. 
+Whenever I visit fairs, I often feel that I am not noticed very much. And when I do find someone to speak to, I sometimes find it hard to start a conversation. 
 
 ![digital-nametag-front](https://i.imgur.com/008BkxN.jpg)
 
