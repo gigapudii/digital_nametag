@@ -18,7 +18,7 @@ To design the board, Eagle CAD was used. The basic thought during the design pro
 ![digital-nametag-back](https://i.imgur.com/TknoJRL.jpg)
 ![digital-nametag-size](https://i.imgur.com/yzrTcCb.jpg)
 
-As for the software, the screen is controlled through an [Arduino library](https://github.com/platisd/nokia-5110-lcd-library). Additionally, when the creen is not updated, the microcontroller is in deep sleep to preserve the battery.
+As for the software, the screen is controlled through an [Arduino library](https://github.com/platisd/nokia-5110-lcd-library). Additionally, when the screen is not updated, the microcontroller is in deep sleep to preserve the battery.
 
 To create the images that were displayed on the screen, Adobe Photoshop and the LCD Assistant were mainly used.
 
